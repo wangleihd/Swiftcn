@@ -14,14 +14,13 @@ Swift 入门
    :scale: 55%
 
 
-:Authors:
-    Richard.Wang
+:Authors: Richard.Wang
 
-:Version: 1.1 of 2016/06/27
+:Version: 1.1 of 2015/06/27
 
 :Dedication: To my Grandmother and my wife.
 
-
+Swift 是一门新语言, 它是根据这么多种语言进化而来的一门语言. Swift更趋近人们的对自然的认识.
 
 
 目录
